@@ -11,3 +11,14 @@ Requirement Analysis plays a foundational role in SDLC by:
 - **Preventing Scope Creep** – Avoiding unnecessary changes that could delay development.  
 - **Providing a Blueprint for Development** – Helping developers, designers, and testers align their work.  
 - **Enhancing Software Quality** – Ensuring the final product meets user needs and business goals. 
+
+## Key Activities in Requirement Analysis.
+Requirement Analysis consists of five essential activities:  
+
+1. **Requirement Gathering** – Collecting information from stakeholders.  
+2. **Requirement Elicitation** – Refining and clarifying requirements through discussions.  
+3. **Requirement Documentation** – Structuring requirements in a clear, organized format.  
+4. **Requirement Analysis & Modeling** – Evaluating feasibility and prioritizing features.  
+5. **Requirement Validation** – Ensuring accuracy and completeness before development.
+
+   
