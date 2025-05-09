@@ -21,4 +21,24 @@ Requirement Analysis consists of five essential activities:
 4. **Requirement Analysis & Modeling** – Evaluating feasibility and prioritizing features.  
 5. **Requirement Validation** – Ensuring accuracy and completeness before development.
 
-   
+## Types of Requirements
+
+### Functional Requirements
+Functional requirements define the **specific behaviors and functionalities** that the system must perform. These requirements describe **what the system should do** to meet user needs.
+
+#### Examples for the Booking Management System:
+- Users should be able to **search for available bookings** based on date and location.
+- The system should allow users to **select a service and confirm their booking**.
+- Users should receive a **confirmation email** after completing a booking.
+- The system should provide **payment processing** for bookings.
+
+### Non-functional Requirements
+Non-functional requirements define the **quality attributes, constraints, and performance expectations** of the system. These requirements describe **how the system should behave** rather than what it should do.
+
+#### Examples for the Booking Management System:
+- The system should **respond within 2 seconds** for booking searches.
+- The platform should be **accessible on mobile and desktop devices**.
+- The system should support **at least 10,000 concurrent users**.
+- User data should be **encrypted and stored securely** to ensure privacy.
+
+
